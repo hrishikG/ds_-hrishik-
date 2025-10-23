@@ -1,0 +1,25 @@
+📄 README: Data Science Assignment
+1. Project Overview
+This repository contains the solution for the Junior Data Scientist assignment. The objective was to explore the relationship between trader performance and market sentiment,  and to deliver actionable insights for trading strategies.
+
+Candidate Name: Hrishik Guha Date of Submission: 24/10/25
+
+2. Submission Structure Compliance
+The repository is structured precisely according to the assignment requirements:
+
+ds_<candidate_name>/
+├── notebook_1.ipynb       # Main analysis notebook (contains Colab link)
+├── notebook_2.ipynb       # [Optional: Include if you used a second notebook]
+├── csv_files/             # Placeholder for data files
+├── outputs/               # Generated charts and graphs (.png)
+├── ds_report.pdf          # Final summary of insights
+└── README.md              # This file
+3. Execution and Setup Instructions
+A. Live Code Access (Google Colab)
+The analysis was performed entirely in Google Colab to ensure a runnable environment. The .ipynb file committed to this repository contains a static snapshot of the code.
+
+Please use the live links below to view and execute the analysis:
+
+Analysis Notebook 1: https://colab.research.google.com/drive/1ChMuIV_X3A2NGf3yhSMDOTQtsCbX74z5?usp=sharing
+
+Optional Notebook 2: https://colab.research.google.com/drive/1-pNX4D2cA5KnHDE8yP8sSszfNz-luZQd?usp=sharing
